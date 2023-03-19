@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MAD Project my part 1</string>
+    <string name="text1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s</string>
+    <string name="header" />
+    <string name="Header">Designs</string>
+    <string name="button1" />
+    <string name="button01">Add to Cart</string>
+    <string name="button02">Add to Cart</string>
+    <string name="button03" />
+    <string name="button04">Add to Cart</string>
+    <string name="text2">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s</string>
+    <string name="text3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s</string>
+    <string name="text04">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s</string>
+    <string name="text05">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s</string>
+    <string name="professional">Professional Graphics Designers</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="orderdetils">Order Details</string>
+    <string name="user_name">User Name</string>
+    <string name="quantity">Quentity</string>
+    <string name="fc">Fram Colors</string>
+    <string name="massage">Massage</string>
+    <string name="send_button">SEND</string>
+    <string name="cart">Cart</string>
+    <string name="design">Design</string>
+    <string name="quality">Quality</string>
+    <string name="quentity">Quentity</string>
+    <string name="total_price">Total Price</string>
+    <string name="checkout">CHECK OUT</string>
+    <string name="PREMIUM">PREMIUM</string>
+    <string name="butto0n03">ADD TO CART</string>
+</resources>
